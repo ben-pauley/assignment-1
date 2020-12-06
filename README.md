@@ -8,6 +8,6 @@ In my GitHub repository, you will find my completed assignment for week 2 of the
 
 Nothing is required to install my project, but the project is deployed live at this URL https://ben-pauley.github.io/assignment-1/.
 
-## Software used
+## Software Used
 
 This project was completed using Visual Studio Code and I tested the website using Google Chrome.
