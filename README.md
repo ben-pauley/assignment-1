@@ -11,3 +11,7 @@ Nothing is required to install my project, but the project is deployed live at t
 ## Software Used
 
 This project was completed using Visual Studio Code and I tested the website using Google Chrome.
+
+## Conclusion
+
+I am really happy with the work I have submitted for this assignment and also proud of how much I've learned along the way, especially through solving problems I had and working out solutions to tasks I wasn't initially confident in completing.
